@@ -20,7 +20,7 @@ Menjalankan IDLE Membuat file baru dengan nama latihan3.py (pastikan lokasi file
 # 2.cetak nilai variabel
 # 3.cetak hasil operasi kedua variabel dengan string format
 # 4.konversi nilai variabel
-#
+
 FYI jika TypeError: %d format: a number is required, not str"
 Jika args adalah daftar atau tupel, %s dapat digunakan sebagai pengganti dalam kueri. Jika args adalah dict, %(name)s dapat digunakan sebagai placeholder dalam kueri
 ![image6.png](screenshot/sslat2.png)
