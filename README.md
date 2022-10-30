@@ -1,5 +1,5 @@
 # Praktikum 3
-
+#
 # Luas dan Keliling Lingkaran
 Baris 1 : Memasukan Modul adalah sebuah file yang berisi sekumpulan fungsi–fungsi dan instruksi–instruksi program python, pemanggilan modul dijalankan dengan perintah import. Contoh modul yang kita butuhkan : import math.
 Baris 3 : Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float (bilangan riil).
