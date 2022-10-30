@@ -1,4 +1,4 @@
-# Praktikum3
+# Praktikum 3
 
 # Luas dan Keliling Lingkaran
 Baris 1 : Memasukan Modul adalah sebuah file yang berisi sekumpulan fungsi–fungsi dan instruksi–instruksi program python, pemanggilan modul dijalankan dengan perintah import. Contoh modul yang kita butuhkan : import math.
