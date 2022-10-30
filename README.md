@@ -27,4 +27,3 @@ Jika args adalah daftar atau tupel, %s dapat digunakan sebagai pengganti dalam k
 
 # Latihan 3
 ![image7.png](screenshot/sslat3.png)
-
